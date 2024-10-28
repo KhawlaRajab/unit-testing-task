@@ -1,0 +1,16 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --watchAll"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
